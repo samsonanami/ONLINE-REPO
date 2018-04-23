@@ -1,0 +1,3 @@
+Task 2
+
+A python code to draw 100 random spaced points (hint: np.random.rand()) where x and y coordinates of these points in the interval (-1,1) and are drawn on the x and y axes extending in interval (-2,2)
